@@ -1,0 +1,23 @@
+.nav{
+  background-color:   #30A6E6/*#000*/;
+}
+
+.nav-item{
+  padding: 5px;
+}
+
+.nav-item:hover{
+  background-color: #000;
+}
+
+.nav-link:hover{
+  color: #fff;
+  font: bold 14px sans-serif;
+}
+
+.hero-block{
+  background-image: url('https://lh3.googleusercontent.com/proxy/3MSfSjF2mhg43uyYTX38hMKqElIPalN6FYleogCFJ0ovsYs2jxbXLVurVofWEyv3hJRdFaUkwhk7RUrOmQ9i8cVHXdcXLrmAucsHYAhmFD_iRzXjgQCyRvDPa_g7g6B3izstUrtSTxv6clxQPTSpPC3fhPMOZvRaGqZn1PvHJ7aLlDZWUmqS5_lm951DoO6dFvs');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
